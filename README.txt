@@ -1,3 +1,7 @@
+Please cite this software using the following DOI:
+https://doi.org/10.5281/zenodo.4003734
+
+
 The repository contains software for
 
 - Channel registration
